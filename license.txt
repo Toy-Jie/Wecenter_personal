@@ -1,0 +1,4 @@
+Wecenter personal 为个人开发版，为个人学习交流版本，禁止商用和下载。
+所使用规则权限请严格遵守WeCenter用户协议。
+
+Wecenter personal已去除官方统计代码。
